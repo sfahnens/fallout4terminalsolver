@@ -13,14 +13,15 @@ Just python (tested with python 3.5, maybe it also runs with python2).
 
 ## Example
 
-1. enter all words to get the initial guess:
+0. find a terminal you want to hack
+1. enter all words to get the initial guess
 
     ```
     python solver.py lance hatch spree lives books halls finds plays cared locks nests
     ```
     
 2. the solver will tell you to try 'lives'
-3. doing so in the game will yield a likeness of 1
+3. doing so in the game could yield a likeness of 1
 4. rerun the solver with the new information
 
     ```
